@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Book_main",
+            "request": "launch",
+            "mainClass": "Book_main",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "BankingApp",
+            "request": "launch",
+            "mainClass": "BankingApp",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAnalyzer_Main",
+            "request": "launch",
+            "mainClass": "MatrixAnalyzer_Main",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "MarksTracking",
+            "request": "launch",
+            "mainClass": "MarksTracking",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "GradingManagementSystem",
+            "request": "launch",
+            "mainClass": "GradingManagementSystem",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "CustomerManager",
+            "request": "launch",
+            "mainClass": "CustomerManager",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeManager",
+            "request": "launch",
+            "mainClass": "EmployeeManager",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "VehicleTest",
+            "request": "launch",
+            "mainClass": "VehicleTest",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Array_List",
+            "request": "launch",
+            "mainClass": "Array_List",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "CarTest",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Comparing_String",
+            "request": "launch",
+            "mainClass": "Comparing_String",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Comparing_Strings_2",
+            "request": "launch",
+            "mainClass": "Comparing_Strings_2",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyFormatter",
+            "request": "launch",
+            "mainClass": "CurrencyFormatter",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Days",
+            "request": "launch",
+            "mainClass": "Days",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_Recursion",
+            "request": "launch",
+            "mainClass": "Factorial_Recursion",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Java_Loop_II",
+            "request": "launch",
+            "mainClass": "Java_Loop_II",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Multidimentional_Array",
+            "request": "launch",
+            "mainClass": "Multidimentional_Array",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Office",
+            "request": "launch",
+            "mainClass": "Office",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquareChecker",
+            "request": "launch",
+            "mainClass": "PerfectSquareChecker",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Random_Number_Game",
+            "request": "launch",
+            "mainClass": "Random_Number_Game",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Array",
+            "request": "launch",
+            "mainClass": "Sorting_Array",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Static_Initializer_Block",
+            "request": "launch",
+            "mainClass": "Static_Initializer_Block",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Target",
+            "request": "launch",
+            "mainClass": "Target",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "TowersOfHanoi",
+            "request": "launch",
+            "mainClass": "TowersOfHanoi",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "Java Files_70198ad3"
+        },
+        {
+            "type": "java",
+            "name": "Type_conversion",
+            "request": "launch",
+            "mainClass": "Type_conversion",
+            "projectName": "Java Files_70198ad3"
+        }
+    ]
+}
