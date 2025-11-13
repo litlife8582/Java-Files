@@ -48,7 +48,6 @@ public class Movie {
             String name=sc.nextLine();
             System.out.println("Enter seat number: ");
             String seatnumber=sc.nextLine();
-            sc.nextLine();
             System.out.println("Enter the price: ");
             double price=sc.nextDouble();
             sc.nextLine();
@@ -56,7 +55,7 @@ public class Movie {
         }
 
         //serialization
-        try(FileOutputStream fout=new FileOutputStream("serializedfile.txt");
+        try(FileOutputStream fout=new FileOutputStream("file.txt");
             ObjectOutputStream out=new ObjectOutputStream(fout)){
             out.writeObject(serializedTicket);
             out.close();
@@ -69,7 +68,7 @@ public class Movie {
         //deserialization
         List<Ticket> deserializedTicket=new ArrayList<>();
         try(
-            FileInputStream fin=new FileInputStream("DeserializedFile.txt");
+            FileInputStream fin=new FileInputStream("file.txt");
             ObjectInputStream in=new ObjectInputStream(fin)){
 
             deserializedTicket=(List<Ticket>) in.readObject();
