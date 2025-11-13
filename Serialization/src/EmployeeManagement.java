@@ -85,12 +85,16 @@ public class EmployeeManagement {
         System.out.print("Enter the salary threshold: ");
         double x=sc.nextDouble();
 
+        int count=0;
         System.out.println("Employee details with salary greater than threshold: ");
         for(Employee emp: deserEmp){
             if(emp.salary>x){
                 System.out.println("ID: "+emp.id+" Name: "+emp.name+" Salary: "+emp.salary+" Department: "+ emp.dept);
+                count++;
             }
         }
+
+        if(count==0) System.out.println("No employee has exceeded the salary threshold.");
 
         sc.close();
     }
